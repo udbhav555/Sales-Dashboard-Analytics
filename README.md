@@ -50,6 +50,7 @@ Analyzing the sales of Finalcial year 2024 - 25
  - Filter panels for month and manager selection
 
 ## Dashboard screenshot
+![Screenshot 2025-04-03 224145](https://github.com/user-attachments/assets/3f38c880-4494-4326-a0dd-47af005224ca)
 
 
 ## Interactivity & Usability
@@ -70,4 +71,8 @@ Analyzing the sales of Finalcial year 2024 - 25
  - SQL for data extraction (likely source)
  - Custom color theming to match corporate identity
  - Cross-filtering functionality between visualizations
+
+## Contact Us
+Email : [udbhavmishra459@outlook.com]
+Linkedin : [https://www.linkedin.com/in/udbhav-mishra5555/]
 
