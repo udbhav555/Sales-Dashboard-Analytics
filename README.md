@@ -32,3 +32,42 @@ Analyzing the sales of Finalcial year 2024 - 25
  - Sales by Payment Mode (balanced distribution across payment methods)
  - Sales by Manager (two managers at $1.18M each leading performance)
  - Monthly Sales Trends (January showing highest performance at $1,931K)
+
+
+## DashBoard Power BI file
+-<a href="https://github.com/udbhav555/Sales-Dashboard-Analytics/blob/main/Sales_Data.xlsx">View Dashboard</a>
+
+
+## Dashboard Features
+
+ - High-level KPI cards for quick performance overview
+ - Bar chart for product sales comparison
+ - Pie chart for payment mode distribution analysis
+ - Bar chart for manager performance comparison
+ - Area chart for monthly sales trends
+ - Bar chart for monthly order quantity distribution
+ - Detailed sales table with drill-down capabilities
+ - Filter panels for month and manager selection
+
+## Dashboard screenshot
+
+
+## Interactivity & Usability
+
+ - Month selection panel allowing filtering by specific months
+ - Manager filter to focus on individual sales team members
+ - Consistent green color scheme matching John Deere branding
+ - Clear section headers identifying each visualization's purpose
+ - Detailed table with expandable rows for deeper analysis
+ - Percentage labels on pie chart for quick distribution understanding
+ - Responsive layout with organized information hierarchy
+
+## Tools & Technologies Used
+
+ - Power BI for dashboard development and visualization
+ - DAX (Data Analysis Expressions) for metric calculations
+ - Power Query for data transformation and cleaning
+ - SQL for data extraction (likely source)
+ - Custom color theming to match corporate identity
+ - Cross-filtering functionality between visualizations
+
