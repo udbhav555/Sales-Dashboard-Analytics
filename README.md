@@ -9,6 +9,11 @@ Analyzing the sales of Finalcial year 2024 - 25
    dimensions, enabling stakeholders to monitor key sales metrics, identify trends, and make data-driven decisions about 
    product performance, payment methods, and sales team effectiveness.
 
+## Dashboard View
+![Screenshot 2025-04-03 224145](https://github.com/user-attachments/assets/3f38c880-4494-4326-a0dd-47af005224ca)
+
+
+
 ## Dataset Used
 -<a href="https://github.com/udbhav555/Sales-Dashboard-Analytics/blob/main/Sales_Data.xlsx">Dataset</a>
 
@@ -49,8 +54,6 @@ Analyzing the sales of Finalcial year 2024 - 25
  - Detailed sales table with drill-down capabilities
  - Filter panels for month and manager selection
 
-## Dashboard screenshot
-![Screenshot 2025-04-03 224145](https://github.com/user-attachments/assets/3f38c880-4494-4326-a0dd-47af005224ca)
 
 
 ## Interactivity & Usability
